@@ -1,4 +1,5 @@
 MESS
 ====
 
-Modeling Earth &amp; Space Science
+Modeling Earth & Space Science
+
